@@ -1,0 +1,4 @@
+name: MakudNoCommands
+version: 1.0
+authors: [ whymakud ]
+main: dev.whymakud.nocommand.Main
